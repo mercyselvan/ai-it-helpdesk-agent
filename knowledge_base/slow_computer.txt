@@ -1,0 +1,25 @@
+SLOW COMPUTER TROUBLESHOOTING
+
+Problem: Computer is running slowly.
+
+Steps:
+1. Restart the computer.
+2. Close applications that are not being used.
+3. Check whether many programs are running at the same time.
+4. Check available storage space.
+5. Remove unnecessary files if storage is nearly full.
+6. Check which applications start automatically with the computer.
+7. Close unnecessary background applications.
+8. Install operating system updates when appropriate.
+9. Run the operating system's built-in security scan.
+10. If the computer remains slow, check whether a particular application is consuming excessive CPU or memory.
+
+Problem: Computer becomes slow after starting.
+
+Steps:
+1. Restart the computer.
+2. Check startup applications.
+3. Disable unnecessary startup applications.
+4. Check CPU and memory usage.
+5. Check available storage.
+6. Look for applications that are consuming unusually high resources.

@@ -1,0 +1,24 @@
+WIFI TROUBLESHOOTING
+
+Problem: Wi-Fi is not connecting.
+
+Steps:
+1. Check that Wi-Fi is enabled on the computer.
+2. Make sure Airplane Mode is turned off.
+3. Check whether other devices can connect to the same Wi-Fi network.
+4. Restart the Wi-Fi router and wait for it to reconnect.
+5. Disconnect from the Wi-Fi network and reconnect using the correct password.
+6. Restart the computer.
+7. If the computer connects to Wi-Fi but websites do not load, check whether other devices have internet access.
+8. If other devices also have no internet, the problem may be with the router or internet service.
+9. If only one computer has the problem, restart its network connection and check its network settings.
+
+Problem: Wi-Fi is connected but there is no internet.
+
+Steps:
+1. Check another device on the same network.
+2. Restart the router.
+3. Restart the computer.
+4. Disconnect and reconnect to Wi-Fi.
+5. Check whether the issue affects all websites.
+6. If the problem continues, contact the internet service provider.
